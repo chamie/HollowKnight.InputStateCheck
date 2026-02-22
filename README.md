@@ -31,6 +31,7 @@ There is also an optional **Superdash Auto-Release** toggle: when enabled, holdi
 ## Installation
 
 Install [Lumafly](https://themulhima.github.io/Lumafly/) or another mod manager, it will be in the list of available mods
+
 Or install manually:
 1. Ensure [Vasi](https://github.com/fifty-six/HollowKnight.Vasi/tree/master/Vasi) is installed.
 2. Drop `InputsRecheck.dll` into your `Mods` folder.
